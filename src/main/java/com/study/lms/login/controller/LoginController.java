@@ -14,7 +14,7 @@ public class LoginController {
 		log.info("===== Start LoginController Home");
 		log.info("===== End LoginController Home");
 		
-		return "index";
+		return "/login/login";
 	}
 	
 }
