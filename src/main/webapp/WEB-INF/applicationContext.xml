@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- # DispatcherServlet의 매핑 경로를 '/'로 주었을 때, 기본 컨트롤러 연결 설정 -->
+<mvc:view-controller path="/" view-name="/login/login" />
